@@ -1,0 +1,65 @@
+{
+  "prepared_on": "2026-10-22",
+  "screenshots": [
+    {
+      "file": "screenshots/01-direct-development-completed.png",
+      "source": "01-直接CLI开发完成历史页面.png",
+      "sha256": "c7f0c6f71dfa5939e77e6a4ab84a8382c43300a217493b6b5fc2b0ae0b734409"
+    },
+    {
+      "file": "screenshots/02-dashboard.png",
+      "source": "02-工作台首页与运行总览.png",
+      "sha256": "aaff94ef3e7d80cebae4d73febc919d01e8031675703ad382592b081c068cf4c"
+    },
+    {
+      "file": "screenshots/03-projects.png",
+      "source": "03-工程管理与接入列表.png",
+      "sha256": "30bd46cd619a1e24f731ee85bef91ef7c48cd816bc9f81a10f69c1afb0feb9d6"
+    },
+    {
+      "file": "screenshots/04-requirement-confirmation.png",
+      "source": "04-需求方案与工作包确认.png",
+      "sha256": "a11fb9971c5c352c894f0607de96eda86b18abc4d729fb28191e22170658879f"
+    },
+    {
+      "file": "screenshots/05-discussion-progress.png",
+      "source": "05-需求讨论与同页开发进度.png",
+      "sha256": "e4d7e1e324f84846809b4747c79c4e6f7c89537de3b01e2bf727623456693285"
+    },
+    {
+      "file": "screenshots/06-acceptance-evidence.png",
+      "source": "06-验收证据与失败记录保留.png",
+      "sha256": "3c8a37c13bc753185886f677deaa75d7b3c5e0ed9b2bf59793620b163110f2f9"
+    },
+    {
+      "file": "screenshots/07-run-logs.png",
+      "source": "07-运行日志筛选与导出.png",
+      "sha256": "20b7d8b4cdadd57571c47a804257ad22efc7f4e874d9c5c0834d9bb580355c58"
+    },
+    {
+      "file": "screenshots/08-service-logs.png",
+      "source": "08-服务日志与错误筛选.png",
+      "sha256": "cfa51aec8bde717ae578b6c265250030a27ba450dff4a13f2dc6c6513d303737"
+    },
+    {
+      "file": "screenshots/09-knowledge.png",
+      "source": "09-知识中心与来源核对.png",
+      "sha256": "71769e7e03d0ee37e588dabf37162edd300bef1b85757c8c5089eca499b09987"
+    },
+    {
+      "file": "screenshots/10-context-policy.png",
+      "source": "10-上下文策略与模型角色配置.png",
+      "sha256": "9392e1742d3102d3c424f491ae1bbe647b9b3d24239b9f5820aa4546748e254a"
+    },
+    {
+      "file": "screenshots/11-context-inspection.png",
+      "source": "11-运行上下文与原文回读.png",
+      "sha256": "15ac917c278e2d67142de39e66cc80ca6a104410fc7677d243612d0adf51fb1a"
+    },
+    {
+      "file": "screenshots/12-delivery-full.png",
+      "source": "12-开发完成与交付回执完整长图.png",
+      "sha256": "a7795aca549dd1deb7124498a7ad77b5e92f60aa98c899d18b1f3017174e3ca5"
+    }
+  ]
+}
